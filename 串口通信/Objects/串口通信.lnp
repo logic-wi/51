@@ -1,0 +1,5 @@
+".\Objects\delay.obj",
+".\Objects\main.obj",
+".\Objects\UART.obj" 
+TO ".\Objects\串口通信" 
+PRINT(".\Listings\串口通信.m51")
